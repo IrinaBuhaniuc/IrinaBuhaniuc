@@ -1,6 +1,15 @@
-# 💫 About Me:
-<br>👋 Hi, I'm Irina Buhaniuc, a passionate web developer with a focus on Python, Django, and REST API development.<br><br>### Skills<br>- **Programming Languages:** Python<br>- **Web Development:** Django<br>- **API Development:** RESTful APIs<br>- **Database:** PostgreSQL<br>- **Version Control:** Git<br><br>### Learning Goals<br>- Exploring best practices in Django and REST API design.<br><br>Feel free to reach out if you'd like to discuss Python, Django, or anything related to backend development!<br><br>📫 Connect with me:<br>- https://www.linkedin.com/in/irina-potereanu-592141288/
-
+## 💫 About Me:
+👋 Hi, I'm Irina Buhaniuc, a passionate web developer with a focus on Python, Django, and REST API development.
+### Skills
+- **Programming Languages:** Python
+- **Web Development:** Django
+- **API Development:** RESTful APIs
+- **Database:** PostgreSQL
+- **Version Control:** Git
+  
+### Learning Goals
+- Exploring best practices in Django and REST API design.
+- Feel free to reach out if you'd like to discuss Python, Django, or anything related to backend development!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irina-potereanu-592141288) 
